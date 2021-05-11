@@ -1,1 +1,1 @@
-web:ProjectAkhirPemwebBE/src
+web: go run src/*.go

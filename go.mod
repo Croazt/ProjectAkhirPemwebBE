@@ -1,5 +1,7 @@
 module github.com/Croazt/ProjectAkhirPemwebBE
 
+
+// +heroku goVersion go1.11
 go 1.16
 
 require (
