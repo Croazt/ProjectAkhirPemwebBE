@@ -1,13 +1,14 @@
 package main
 
 import (
-	"ProjectAkhirPemweb/backend/src/routes"
-	"ProjectAkhirPemweb/backend/src/utils"
-	"ProjectAkhirPemweb/backend/src/utils/dbConfig"
 	"log"
 	"net/http"
 	"os"
 	"time"
+
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/routes"
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/utils"
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/utils/dbConfig"
 )
 
 type inisiationVar struct {

@@ -1,11 +1,12 @@
 package middleware
 
 import (
-	"ProjectAkhirPemweb/backend/src/models"
 	"context"
 	"fmt"
 	"log"
 	"net/http"
+
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/models"
 )
 
 func MiddlewareUserValidation(next http.Handler) http.Handler {

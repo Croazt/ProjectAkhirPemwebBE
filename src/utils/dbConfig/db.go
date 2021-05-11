@@ -1,8 +1,8 @@
 package dbConfig
 
 import (
-	"ProjectAkhirPemweb/backend/src/utils"
-	"ProjectAkhirPemweb/backend/src/utils/dbConfig/dbModel"
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/utils"
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/utils/dbConfig/dbModel"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

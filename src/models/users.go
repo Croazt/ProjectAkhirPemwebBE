@@ -1,11 +1,12 @@
 package models
 
 import (
-	"ProjectAkhirPemweb/backend/src/utils/dbConfig"
-	"ProjectAkhirPemweb/backend/src/utils/dbConfig/dbModel"
 	"encoding/json"
 	"io"
 	"log"
+
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/utils/dbConfig"
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/utils/dbConfig/dbModel"
 
 	"github.com/go-playground/validator"
 )

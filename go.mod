@@ -1,4 +1,4 @@
-module ProjectAkhirPemweb/backend
+module github.com/Croazt/ProjectAkhirPemwebBE
 
 go 1.16
 

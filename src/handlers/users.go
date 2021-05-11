@@ -1,11 +1,12 @@
 package handlers
 
 import (
-	"ProjectAkhirPemweb/backend/src/middleware"
-	"ProjectAkhirPemweb/backend/src/models"
 	"log"
 	"net/http"
 	"strconv"
+
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/middleware"
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/models"
 
 	"github.com/gorilla/mux"
 )

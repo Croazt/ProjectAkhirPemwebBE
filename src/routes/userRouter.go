@@ -1,10 +1,11 @@
 package routes
 
 import (
-	"ProjectAkhirPemweb/backend/src/handlers"
-	"ProjectAkhirPemweb/backend/src/middleware"
 	"log"
 	"net/http"
+
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/handlers"
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/middleware"
 
 	"github.com/gorilla/mux"
 )

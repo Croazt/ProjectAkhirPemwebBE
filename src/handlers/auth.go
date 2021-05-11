@@ -1,11 +1,12 @@
 package handlers
 
 import (
-	"ProjectAkhirPemweb/backend/src/middleware"
-	"ProjectAkhirPemweb/backend/src/models"
 	"log"
 	"net/http"
 	"time"
+
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/middleware"
+	"github.com/Croazt/ProjectAkhirPemwebBE/src/models"
 
 	"github.com/dgrijalva/jwt-go"
 )
